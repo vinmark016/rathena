@@ -1,0 +1,15 @@
+login_server_id: rtm
+login_server_pw: @Icebp86ga30u16
+login_server_db: r_t
+ipban_db_id: rtm
+ipban_db_pw: @Icebp86ga30u16
+ipban_db_db: r_t
+char_server_id: rtm
+char_server_pw: @Icebp86ga30u16
+char_server_db: r_t
+map_server_id: rtm
+map_server_pw: @Icebp86ga30u16
+map_server_db: r_t
+log_db_id: rtm
+log_db_pw: @Icebp86ga30u16
+log_db_db: r_l
